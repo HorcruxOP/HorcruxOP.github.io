@@ -65604,7 +65604,7 @@ A.tx.prototype={
 ae(){return new A.J4(B.j)}}
 A.J4.prototype={
 H(a){var s=null,r=t.p
-return A.dX(A.b([A.dA(B.kw,s,this.a.a,s),B.cl,A.afu(B.ww,A.b([new A.jV("icons/ubereatsclone.png","Uber Eats Clone",new A.a4c(),s),new A.jV("icons/fooddeliveryapp.png","Food Delivery App",new A.a4d(),s),new A.jV("icons/whatsappclone.png","Whatsapp Ui Clone",new A.a4e(),s),new A.jV("icons/loginscreen.png","Animated Login Screen",new A.a4f(),s)],r),50,50),B.ir,A.dA(A.aa2(B.kv,new A.a4g()),s,s,s)],r),B.W,B.T)}}
+return A.dX(A.b([A.dA(B.kw,s,this.a.a,s),B.cl,A.afu(B.ww,A.b([new A.jV("assets/icons/ubereatsclone.png","Uber Eats Clone",new A.a4c(),s),new A.jV("assets/icons/fooddeliveryapp.png","Food Delivery App",new A.a4d(),s),new A.jV("assets/icons/whatsappclone.png","Whatsapp Ui Clone",new A.a4e(),s),new A.jV("assets/icons/loginscreen.png","Animated Login Screen",new A.a4f(),s)],r),50,50),B.ir,A.dA(A.aa2(B.kv,new A.a4g()),s,s,s)],r),B.W,B.T)}}
 A.a4c.prototype={
 $0(){return A.c4(A.bq(u.G,0,null))},
 $S:0}
@@ -65749,7 +65749,7 @@ $0(){},
 $S:0}
 A.Fe.prototype={
 H(a){var s=null
-return A.iy(A.b([new A.mj("icons/instagram.png",new A.Zk(),s),B.bN,new A.mj("icons/github.png",new A.Zl(),s),B.bN,new A.mj("icons/twitter.png",new A.Zm(),s),B.bN,new A.mj("icons/linkedin.png",new A.Zn(),s)],t.p),B.W,B.T,B.aw)}}
+return A.iy(A.b([new A.mj("assets/icons/instagram.png",new A.Zk(),s),B.bN,new A.mj("assets/icons/github.png",new A.Zl(),s),B.bN,new A.mj("assets/icons/twitter.png",new A.Zm(),s),B.bN,new A.mj("assets/icons/linkedin.png",new A.Zn(),s)],t.p),B.W,B.T,B.aw)}}
 A.Zk.prototype={
 $0(){return A.c4(A.bq(u.Q,0,null))},
 $S:0}
@@ -65764,7 +65764,7 @@ $0(){return A.c4(A.bq(u.Z,0,null))},
 $S:0}
 A.CC.prototype={
 H(a){var s=null
-return A.iy(A.b([new A.lH("icons/instagram.png",new A.UM(),s),B.bM,new A.lH("icons/github.png",new A.UN(),s),B.bM,new A.lH("icons/twitter.png",new A.UO(),s),B.bM,new A.lH("icons/linkedin.png",new A.UP(),s)],t.p),B.W,B.T,B.aw)}}
+return A.iy(A.b([new A.lH("assets/icons/instagram.png",new A.UM(),s),B.bM,new A.lH("assets/icons/github.png",new A.UN(),s),B.bM,new A.lH("assets/icons/twitter.png",new A.UO(),s),B.bM,new A.lH("assets/icons/linkedin.png",new A.UP(),s)],t.p),B.W,B.T,B.aw)}}
 A.UM.prototype={
 $0(){return A.c4(A.bq(u.Q,0,null))},
 $S:0}
